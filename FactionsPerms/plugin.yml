@@ -1,0 +1,6 @@
+name: FactionsPerms
+author: peNNNk
+main: com.peNNNk.FactionsPerms.main
+version: 1.0.0
+depend: [Factions]
+description: Extra permission for Factions

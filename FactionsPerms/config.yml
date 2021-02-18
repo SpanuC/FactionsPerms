@@ -1,0 +1,5 @@
+factions-open: true
+factions-tag: true
+factions-unclaimall: true
+cannot-do-that: "&fOnly your faction &eLeader&f can do that."
+cannot-unclaimall: "&fYou can't &eunclaimall&f, only your faction &6Leader&f can do that."
